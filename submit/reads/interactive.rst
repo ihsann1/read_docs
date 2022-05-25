@@ -76,8 +76,7 @@ Consider the following tips as you complete your spreadsheet:
 - The MD5 fields should be filled with file MD5 values, which are 32-digit hexadecimal numbers.
   The MD5 value is a fingerprint value for the file which allows us to verify that it was uploaded successfully.
   In Linux and Mac, you can generate this value from the command line by running the command 'md5' or 'md5sum' on the
-  file, while Microsoft has a `support article <https://support.microsoft.com/en-gb/help/889768/how-to-compute-the-md5-or-sha-1-cryptographic-hash-values-for-a-file>`_
-  on performing this activity for Windows.
+  file, while Microsoft  has 3rd party tools to perform this.
 - Do not edit the existing column names
 - Use only valid ASCII characters
 - When you come to submit the file you must use one of the following extensions: .csv, .tsv, .tab, .txt
